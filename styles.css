@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+h1,h2,p,li {
+    text-align: center;
+}
+li{
+    list-style: none;
+}
+img{
+    width: 350px;
+    height: 250px;
+}
+#menu #image1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
